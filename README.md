@@ -20,3 +20,5 @@ and teller users.
 - Django
 - SQLite (can be configured for other databases)
 - HTML/CSS/JavaScrip
+- HTML/CSS/JavaScrip
+- HTML/CSS/JavaScrip
