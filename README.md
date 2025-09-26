@@ -19,8 +19,6 @@ and teller users.
 ## Technology Stack
 - Django
 - SQLite (can be configured for other databases)
-<<<<<<< HEAD
 - HTML/CSS/JavaScrip
-=======
 - HTML/CSS/JavaScrip
->>>>>>> e79fbbede943d87b15b1cf293bc5bed6b08328c7
+- HTML/CSS/JavaScrip
